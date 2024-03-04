@@ -1,0 +1,45 @@
+[
+    {
+        "title" : "Fjallraven-1 - Foldsack Backpack, Fits 15 Laptops",
+        "Price" : "$109.95",
+        "rating" : "3.9/5",
+        "pimage" : "/src/assets/img-1.jpg",
+        "desc" : "Description: Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+    },
+    {
+        "title" : "Fjallraven-2 - Foldsack Backpack, Fits 15 Laptops",
+        "Price" : "$120.15",
+        "rating" : "4.5/5",
+        "pimage" : "/src/assets/img-2.jpg",
+        "desc" : "Description: Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+    },
+    {
+        "title" : "Fjallraven-3 - Foldsack Backpack, Fits 15 Laptops",
+        "Price" : "$270.41",
+        "rating" :" 4.3/5",
+        "pimage" : "/src/assets/img-3.jpg",
+        "desc" : "Description: Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+    },
+    {
+        "title" : "Fjallraven-4 - Foldsack Backpack, Fits 15 Laptops",
+        "Price" : "$380.69",
+        "rating" : "4.9/5",
+        "pimage" : "/src/assets/img-4.jpg",
+        "desc" : "Description: Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+    },
+    {
+        "title" : "Fjallraven-5 - Foldsack Backpack, Fits 15 Laptops",
+        "Price" : "$680.69",
+        "rating" : "5/5",
+        "pimage" : "/src/assets/img-5.jpg",
+        "desc" : "Description: Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+    },
+    {
+        "title" : "Fjallraven-6 - Foldsack Backpack, Fits 15 Laptops",
+        "Price" : "$548.00",
+        "rating" : "5/5",
+        "pimage" : "/src/assets/img-6.jpg",
+        "desc" : "Description: Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+    }
+] 
+  
